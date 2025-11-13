@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Imène MEDJAOUI
 
-**Full-Stack Software Engineer · AI & Systems Integration · DevOps Enthusiast**
+**Full-Stack Developer · Software Crafting · AI Integration**
 
 ---
 
 ### 👩‍💻 About Me  
-- 🚧 I specialize in building scalable, high-performance systems, with a strong grounding in backend core, distributed architecture and automated pipelines.  
-- 🧠 I’m passionate about **AI integration**, secure systems, infrastructure as code, and streamlining engineering workflows.  
-- 🎮 I also tinker with game dev prototypes and explore real-time systems when time allows.
+- 💻 Full-stack developer with 3 years of experience in web, Android, and backend development.  
+- 🛠️ Skilled in Python, Django, REST APIs, SQL databases, and Odoo 17 custom modules.  
+- 🔧 Comfortable with system setups on Windows & Ubuntu, plus integrations like Nextcloud and OnlyOffice.  
+- 🎨 Also enjoy digital art and small side projects.  
+- 🚀 Curious, adaptable, and always improving.
 
 ---
 
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/imenemedjaoui"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <!-- <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a> -->
   <a href="https://www.linkedin.com/in/imène-medjaoui"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://dribbble.com/BubbleXGum"><img src="https://skillicons.dev/icons?i=dribbble" height="40"/></a>
+  <a href="https://dribbble.com/BubbleXGum"><img src="https://cdn.simpleicons.org/dribbble/F2669A" height="40"/></a>
   <!-- <a href="https://medium.com/"><img src="https://skillicons.dev/icons?i=medium" height="40"/></a> -->
 </p>
 
@@ -39,10 +41,25 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,python,go" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git,linux,bash" height="40"/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="40"/>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=python,java" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="40"/>
+  <img src="https://cdn.simpleicons.org/firebird/CC0000" height="40"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40"/>
+
+  <!-- Versioning -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" height="40"/>
+
+  <!-- Systems -->
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+
+  <!-- Extra -->
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
 </p>
 
 ---
