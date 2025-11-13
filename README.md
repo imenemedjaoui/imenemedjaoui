@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Imène MEDJAOUI
 
-**Full-Stack Developer · Software Crafting · AI Integration**
+**Full-Stack Developer · Software Engineer · AI Crafter**
 
 ---
 
