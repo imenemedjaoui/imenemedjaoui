@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 
   <!-- Extra -->
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+  <img src="assets/odoo.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/nextcloud/nextcloud.com/master/assets/img/logo/logo_nextcloud_blue.svg" height="40"/>
+  <img src="assets/onlyoffice.svg" height="40"/>
 </p>
 
 ---
