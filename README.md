@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="40"/>
-  <img src="https://cdn.simpleicons.org/firebird/CC0000" height="40"/>
+  <img src="https://www.firebirdsql.org/file/about/ds-firebird-logo.svg" height="40"/>
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40"/>
 
   <!-- Versioning -->
