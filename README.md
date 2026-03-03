@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👩‍💻 About Me  
-- 💻 Full-stack developer with 3 years of experience in web, Android, and backend development.  
+- 💻 Full-stack developer with 4 years of experience in web, Android, and backend development.  
 - 🛠️ Skilled in Python, Django, REST APIs, SQL databases, and Odoo 17 custom modules.  
 - 🔧 Comfortable with system setups on Windows & Ubuntu, plus integrations like Nextcloud and OnlyOffice.  
 - 🎨 Also enjoy digital art and small side projects.  
