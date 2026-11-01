@@ -69,9 +69,11 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats  
 <p align="left">
-  <img height="170" src="https://github-readme-stats-extended.vercel.app/api?username=imenemedjaoui&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=imenemedjaoui&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-extended.vercel.app/api?username=imenemedjaoui&show_icons=true&theme=material-palenight"/>
+  <img height="170" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=imenemedjaoui&layout=normal&theme=material-palenight"/>
 </p>
+
+
 
 ---
 
